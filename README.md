@@ -7,7 +7,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 Skills: JavaScript / React JS / Node JS / MongoDB / Firebase / CRUD Operation / Tailwind / Bootstrap / Daisy UI 
 
-- 🔭 I’m currently working on AIR CNC Project 
+- 🔭 I’m currently working on Next JS 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with Remote Job 
