@@ -1,16 +1,17 @@
 Wordpress Plugin Developer || Frontend Developer
 
 About Me 👋
+
 I am a WordPress Plugin Developer and Frontend Developer at bPlugins, where I specialize in crafting custom plugins and creating user-friendly, responsive interfaces. With a strong focus on quality and functionality, I bring innovative solutions to enhance WordPress experiences.
 
 Experience 🌟
 Joined bPlugins: February 12, 2024
 Specialties:
-WordPress plugin development
-Frontend development with modern tools and technologies
-Creating seamless user experiences
-Passion 💡
-I am passionate about building tools that empower users and contribute to the open-source community. My GitHub repositories showcase my commitment to clean code, performance optimization, and collaboration.
+* WordPress plugin development
+* Frontend development with modern tools and technologies
+* Creating seamless user experiences
+* 
+Passion 💡 I am passionate about building tools that empower users and contribute to the open-source community. My GitHub repositories showcase my commitment to clean code, performance optimization, and collaboration.
 
 Feel free to explore my work and connect with me!
 
