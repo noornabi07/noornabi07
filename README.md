@@ -1,18 +1,18 @@
-![MERN stack web developer](https://media.licdn.com/dms/image/D5616AQEOxHKCn1IBbw/profile-displaybackgroundimage-shrink_350_1400/0/1685973316632?e=1692835200&v=beta&t=tbhE7YJ_jlm9RTr3Wykyn-s3spA30c1u1ASWvOqBT-I)
+Wordpress Plugin Developer || Frontend Developer
 
-### Hi there 👋, I'm Md Noornabi Islam
-#### MERN stack web developer
+About Me 👋
+I am a WordPress Plugin Developer and Frontend Developer at bPlugins, where I specialize in crafting custom plugins and creating user-friendly, responsive interfaces. With a strong focus on quality and functionality, I bring innovative solutions to enhance WordPress experiences.
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work React JS, JavaScript and I enjoy working with include  as well new skills.
+Experience 🌟
+Joined bPlugins: February 12, 2024
+Specialties:
+WordPress plugin development
+Frontend development with modern tools and technologies
+Creating seamless user experiences
+Passion 💡
+I am passionate about building tools that empower users and contribute to the open-source community. My GitHub repositories showcase my commitment to clean code, performance optimization, and collaboration.
 
-Skills: JavaScript / React JS / Node JS / MongoDB / Firebase / CRUD Operation / Tailwind / Bootstrap / Daisy UI 
-
-- 🔭 I’m currently working on Next JS 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Remote Job 
-- 💬 Ask me about MERN stack developer 
-
+Feel free to explore my work and connect with me!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/noornabi07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-noornabi-islam-0a239821b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdnoornabiislamNK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/musicpromoter33//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MDNurna56749656)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://soundcloud.com/noornabiprogram07)  
 
